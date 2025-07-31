@@ -8,7 +8,6 @@ A modern and responsive weather application built with vanilla HTML, CSS, and Ja
 
 *Try the app live! Search for any city to see real-time weather data and 7-day forecasts.*
 
-> **Note:** Replace the demo link above with your actual deployment URL when you host your app on GitHub Pages, Netlify, Vercel, or any other hosting platform.
 
 ## Features
 
