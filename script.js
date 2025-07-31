@@ -1,4 +1,4 @@
-const WEATHER_API_KEY = '(9f9fe93243bc4179bb7132459253107)'; // Replace with your actual API key
+const WEATHER_API_KEY = 'YOUR_API_KEY'; // Replace with your actual API key
 const WEATHER_API_BASE = 'https://api.weatherapi.com/v1';
 
 // DOM elements
